@@ -240,7 +240,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
   display: block;
   margin-top: 50px;
   color: var(--accent);
-  font-size: 13px;
+  font-size: 12px;
 }
 
 .hero-side small {
